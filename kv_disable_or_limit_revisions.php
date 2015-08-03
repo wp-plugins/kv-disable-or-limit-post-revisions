@@ -2,7 +2,7 @@
 /*
 Plugin Name: KV Disable or Limit WordPress Post Revisions
 Plugin URI: http://kvcodes.com
-Description:  A Simple Plugin which helps to maintain your WordPress Post Revisions and helps to reduce the database load and increase your site speed with it.  
+Description:  A Simple Plugin which helps to maintain your WordPress Post Revisions and helps to reduce the database load and increase your site speed with it.   <a href="http://www.kvcodes.com" target="_blank" > Read more </a> 
 Version: 1.0
 Author: kvvaradha
 Author URI: http://profiles.wordpress.org/kvvaradha
